@@ -1,0 +1,22 @@
+[
+    {
+        "opisanie_operation": "1",
+        "summa": 1000.0,
+        "category": "1"
+    },
+    {
+        "opisanie_operation": "2",
+        "summa": -500.0,
+        "category": "2"
+    },
+    {
+        "opisanie_operation": "3",
+        "summa": 300.0,
+        "category": "1"
+    },
+    {
+        "opisanie_operation": "4",
+        "summa": -100.0,
+        "category": "2"
+    }
+]

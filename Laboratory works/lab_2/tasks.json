@@ -1,0 +1,17 @@
+[
+    {
+        "opisanie_zadachi": "task1",
+        "category": "1",
+        "status": true
+    },
+    {
+        "opisanie_zadachi": "task2",
+        "category": "2",
+        "status": true
+    },
+    {
+        "opisanie_zadachi": "task3",
+        "category": "1",
+        "status": false
+    }
+]
